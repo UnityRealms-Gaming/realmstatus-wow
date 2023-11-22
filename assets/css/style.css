@@ -1,0 +1,42 @@
+
+body {
+    background: url('/assets/images/background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #ffd700;
+}
+
+.server-info {
+    border-bottom: 1px solid #fff;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.server-info h5 {
+    color: #00ff00;
+}
+
+.server-info p {
+    color: #fff;
+}
+
+.online-icon {
+    color: #00ff00;
+}
+
+.offline-icon {
+    color: #ff0000;
+}
