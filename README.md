@@ -4,3 +4,7 @@
 3. Upload this Files to your Webroot.
 4. Finsh.
 
+#Requirements
+1. PHP 7.5 - 8.2
+2. MySQL
+3. PDO Extension
